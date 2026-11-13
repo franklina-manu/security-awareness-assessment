@@ -6,7 +6,7 @@ This beginner-friendly project demonstrates how an organisation can educate empl
 **Scenario:** You are supporting the security team at a fictional company, SecureCorp. You have been asked to prepare a short employee awareness pack covering phishing, password security, social engineering and safe handling of information.
 
 **Project type:** Cybersecurity awareness, governance and documentation  
-**Level:** Beginner  
+**Level:** Intermediate 
 **Tools:** Markdown, Microsoft Excel or Google Sheets  
 **Scope:** Educational tabletop material only. All people, messages and company details are fictional.
 
